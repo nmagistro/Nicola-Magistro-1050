@@ -1,0 +1,7 @@
+C:\Users\NIco\source\repos\hello world from nicola magistro\hello world from nicola magistro\bin\Debug\hello world from nicola magistro.exe.config
+C:\Users\NIco\source\repos\hello world from nicola magistro\hello world from nicola magistro\bin\Debug\hello world from nicola magistro.exe
+C:\Users\NIco\source\repos\hello world from nicola magistro\hello world from nicola magistro\bin\Debug\hello world from nicola magistro.pdb
+C:\Users\NIco\source\repos\hello world from nicola magistro\hello world from nicola magistro\obj\Debug\hello world from nicola magistro.csprojAssemblyReference.cache
+C:\Users\NIco\source\repos\hello world from nicola magistro\hello world from nicola magistro\obj\Debug\hello world from nicola magistro.csproj.CoreCompileInputs.cache
+C:\Users\NIco\source\repos\hello world from nicola magistro\hello world from nicola magistro\obj\Debug\hello world from nicola magistro.exe
+C:\Users\NIco\source\repos\hello world from nicola magistro\hello world from nicola magistro\obj\Debug\hello world from nicola magistro.pdb
