@@ -1,0 +1,7 @@
+C:\Users\NIco\source\repos\Lab4 Nicola Magistro\Lab4 Nicola Magistro\bin\Debug\Lab4 Nicola Magistro.exe.config
+C:\Users\NIco\source\repos\Lab4 Nicola Magistro\Lab4 Nicola Magistro\bin\Debug\Lab4 Nicola Magistro.exe
+C:\Users\NIco\source\repos\Lab4 Nicola Magistro\Lab4 Nicola Magistro\bin\Debug\Lab4 Nicola Magistro.pdb
+C:\Users\NIco\source\repos\Lab4 Nicola Magistro\Lab4 Nicola Magistro\obj\Debug\Lab4 Nicola Magistro.csprojAssemblyReference.cache
+C:\Users\NIco\source\repos\Lab4 Nicola Magistro\Lab4 Nicola Magistro\obj\Debug\Lab4 Nicola Magistro.csproj.CoreCompileInputs.cache
+C:\Users\NIco\source\repos\Lab4 Nicola Magistro\Lab4 Nicola Magistro\obj\Debug\Lab4 Nicola Magistro.exe
+C:\Users\NIco\source\repos\Lab4 Nicola Magistro\Lab4 Nicola Magistro\obj\Debug\Lab4 Nicola Magistro.pdb
