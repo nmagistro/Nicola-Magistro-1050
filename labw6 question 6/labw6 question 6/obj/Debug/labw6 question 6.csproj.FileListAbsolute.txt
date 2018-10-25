@@ -1,0 +1,7 @@
+C:\Users\NIco\Documents\GitHub\Nicola-Magistro-1050\labw6 question 6\labw6 question 6\bin\Debug\labw6 question 6.exe.config
+C:\Users\NIco\Documents\GitHub\Nicola-Magistro-1050\labw6 question 6\labw6 question 6\bin\Debug\labw6 question 6.exe
+C:\Users\NIco\Documents\GitHub\Nicola-Magistro-1050\labw6 question 6\labw6 question 6\bin\Debug\labw6 question 6.pdb
+C:\Users\NIco\Documents\GitHub\Nicola-Magistro-1050\labw6 question 6\labw6 question 6\obj\Debug\labw6 question 6.csprojAssemblyReference.cache
+C:\Users\NIco\Documents\GitHub\Nicola-Magistro-1050\labw6 question 6\labw6 question 6\obj\Debug\labw6 question 6.csproj.CoreCompileInputs.cache
+C:\Users\NIco\Documents\GitHub\Nicola-Magistro-1050\labw6 question 6\labw6 question 6\obj\Debug\labw6 question 6.exe
+C:\Users\NIco\Documents\GitHub\Nicola-Magistro-1050\labw6 question 6\labw6 question 6\obj\Debug\labw6 question 6.pdb
