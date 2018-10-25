@@ -1,0 +1,7 @@
+C:\Users\NIco\Documents\GitHub\Nicola-Magistro-1050\lab6 question7\lab6 question7\bin\Debug\lab6 question7.exe.config
+C:\Users\NIco\Documents\GitHub\Nicola-Magistro-1050\lab6 question7\lab6 question7\bin\Debug\lab6 question7.exe
+C:\Users\NIco\Documents\GitHub\Nicola-Magistro-1050\lab6 question7\lab6 question7\bin\Debug\lab6 question7.pdb
+C:\Users\NIco\Documents\GitHub\Nicola-Magistro-1050\lab6 question7\lab6 question7\obj\Debug\lab6 question7.csprojAssemblyReference.cache
+C:\Users\NIco\Documents\GitHub\Nicola-Magistro-1050\lab6 question7\lab6 question7\obj\Debug\lab6 question7.csproj.CoreCompileInputs.cache
+C:\Users\NIco\Documents\GitHub\Nicola-Magistro-1050\lab6 question7\lab6 question7\obj\Debug\lab6 question7.exe
+C:\Users\NIco\Documents\GitHub\Nicola-Magistro-1050\lab6 question7\lab6 question7\obj\Debug\lab6 question7.pdb
