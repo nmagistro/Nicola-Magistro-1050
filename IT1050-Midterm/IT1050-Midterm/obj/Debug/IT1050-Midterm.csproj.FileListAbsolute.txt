@@ -1,0 +1,7 @@
+c:\users\nico\source\repos\IT1050-Midterm\IT1050-Midterm\bin\Debug\IT1050-Midterm.exe.config
+c:\users\nico\source\repos\IT1050-Midterm\IT1050-Midterm\bin\Debug\IT1050-Midterm.exe
+c:\users\nico\source\repos\IT1050-Midterm\IT1050-Midterm\bin\Debug\IT1050-Midterm.pdb
+c:\users\nico\source\repos\IT1050-Midterm\IT1050-Midterm\obj\Debug\IT1050-Midterm.csprojAssemblyReference.cache
+c:\users\nico\source\repos\IT1050-Midterm\IT1050-Midterm\obj\Debug\IT1050-Midterm.csproj.CoreCompileInputs.cache
+c:\users\nico\source\repos\IT1050-Midterm\IT1050-Midterm\obj\Debug\IT1050-Midterm.exe
+c:\users\nico\source\repos\IT1050-Midterm\IT1050-Midterm\obj\Debug\IT1050-Midterm.pdb
