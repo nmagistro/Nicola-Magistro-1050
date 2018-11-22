@@ -1,0 +1,7 @@
+c:\users\nico\source\repos\lab week 9 3\lab week 9 3\bin\Debug\lab week 9 3.exe.config
+c:\users\nico\source\repos\lab week 9 3\lab week 9 3\bin\Debug\lab week 9 3.exe
+c:\users\nico\source\repos\lab week 9 3\lab week 9 3\bin\Debug\lab week 9 3.pdb
+c:\users\nico\source\repos\lab week 9 3\lab week 9 3\obj\Debug\lab week 9 3.csprojAssemblyReference.cache
+c:\users\nico\source\repos\lab week 9 3\lab week 9 3\obj\Debug\lab week 9 3.csproj.CoreCompileInputs.cache
+c:\users\nico\source\repos\lab week 9 3\lab week 9 3\obj\Debug\lab week 9 3.exe
+c:\users\nico\source\repos\lab week 9 3\lab week 9 3\obj\Debug\lab week 9 3.pdb
