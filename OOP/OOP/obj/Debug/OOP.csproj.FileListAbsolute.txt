@@ -1,0 +1,7 @@
+c:\users\nico\source\repos\OOP\OOP\bin\Debug\OOP.exe.config
+c:\users\nico\source\repos\OOP\OOP\bin\Debug\OOP.exe
+c:\users\nico\source\repos\OOP\OOP\bin\Debug\OOP.pdb
+c:\users\nico\source\repos\OOP\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+c:\users\nico\source\repos\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+c:\users\nico\source\repos\OOP\OOP\obj\Debug\OOP.exe
+c:\users\nico\source\repos\OOP\OOP\obj\Debug\OOP.pdb
